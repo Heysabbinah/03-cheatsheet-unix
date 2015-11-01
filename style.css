@@ -27,9 +27,17 @@ body {
   font-family: sans-serif;
 
 }
+accueil {
+font-size: 0.2em;
+color: white;
+float: left;
+}
+a {
+  text-decoration: none;
+}
 table {
   width:auto;
-  margin-top: 50px;
+  margin-top: 20px;
 
   float: left;
   border: 1px solid white;
@@ -45,8 +53,11 @@ table td  {
   padding: 5px;
 }
 
+#command {
+  margin-top: 30px;
+}
 section {
-  margin-top: 90px;
+  margin-top: 40px;
   color: white;
   font-size: 1.6em;
   font-weight: bold;
