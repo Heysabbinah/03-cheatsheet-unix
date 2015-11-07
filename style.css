@@ -63,18 +63,25 @@ a {
                 /*position: absolute; z-index: 2;*/
                 border: 2px solid white;
                 padding-bottom: 5%;
-                padding-top: 3%;
+                padding-top: 2%;
                 padding-left: 3%;
-                margin: 0 auto;
-                width: 80%;
+                margin-top: 3%;
+                margin-left: 8%;
+                width: 83%;
                 height: 70%;
                 font-size: 1.2em;
                 font-weight: bold;
                 font-family: sans-serif;
                 color: white;
+                padding-left: 4%
 
 }
 
 #list li {
                 display: inline-block;
+}
+
+#list li {
+                display: inline-block;
+                padding-right: 2%;
 }
